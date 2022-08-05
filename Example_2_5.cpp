@@ -34,6 +34,8 @@ int main(int argc, char* argv[]){
 	//Wait for the user to hit a key, windows will self destruct
 	//
 	
+	//comentario para o aprendizado git
+
 	cv::waitKey(0);
 
 
